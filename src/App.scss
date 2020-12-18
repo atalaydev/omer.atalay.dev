@@ -1,0 +1,47 @@
+#atalay-dev-logo{
+  display: inline-block;
+
+  .primary{
+    h1{
+      font-size: 2.735rem;
+      font-weight: 800;
+      line-height: 3rem;
+    }
+  }
+
+  .secondary{
+    font-size: 0.9rem;
+    font-weight: 300;
+    line-height: 1rem;
+  }
+}
+
+div.social{
+  a{
+    color: #0A0903;
+    padding: 0;
+  }
+
+  *{
+    margin-right: 0.25rem;
+  }
+
+  *:last-child{
+    margin-right:0 !important;
+  }
+}
+
+.atalay-dev-alert{
+  font-size: 0.65rem;
+  border-radius: 0;
+  background-color: #F6AE2D;
+  font-weight: 400;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+
+  a{
+    font-weight: 800;
+    color: #0A0903;
+  }
+}
